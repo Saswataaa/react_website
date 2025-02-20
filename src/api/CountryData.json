@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 214000000,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen."
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFact": "Australia is the only country that is also a continent."
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "interestingFact": "Germany is home to the world's largest beer festival, Oktoberfest."
+    },
+    {
+      "id": 6,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interestingFact": "India is the birthplace of chess, yoga, and Ayurveda."
+    },
+    {
+      "id": 7,
+      "name": "Egypt",
+      "capital": "Cairo",
+      "population": 110000000,
+      "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 8,
+      "name": "France",
+      "capital": "Paris",
+      "population": 68000000,
+      "interestingFact": "France is the most visited country in the world, with over 90 million tourists annually."
+    },
+    {
+      "id": 9,
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "population": 60000000,
+      "interestingFact": "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+    },
+    {
+      "id": 10,
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "population": 128000000,
+      "interestingFact": "Mexico is home to the world’s largest pyramid by volume, the Great Pyramid of Cholula."
+    }
+  ]
+  
