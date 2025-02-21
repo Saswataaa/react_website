@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"MapPin",
+        "title":"Find us",
+        "details":"Kolkata,West Bengal"
+    },
+    {
+        "icon":"Phone",
+        "title":"Call us",
+        "details":"+91 9999999999"
+    },
+    {
+        "icon":"EnvelopeSimple",
+        "title":"Mail us",
+        "details":"Placeholder@website.com"
+    }
+]

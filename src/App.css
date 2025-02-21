@@ -78,7 +78,7 @@ button {
 /* Layout  */
 
 .container {
-  max-width: 130rem;
+  max-width: 115rem;
   margin: auto;
 }
 
@@ -321,7 +321,8 @@ nav ul {
   align-items: center;
 
   & .icon {
-    color: #3a4ed5;
+    color: #009bd8;
+    /* color: #3a4ed5; */
     font-size: 3.6rem;
 
     & .icon:nth-child(2) {
