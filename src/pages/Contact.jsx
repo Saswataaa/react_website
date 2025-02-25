@@ -2,6 +2,7 @@ export const Contact = ()=>{
 
     const handleFormSubmit = (formdata)=>{
         const data = Object.fromEntries(formdata.entries())
+        // can be used later to store this data
         console.log('this is data',data.username)
 
     }

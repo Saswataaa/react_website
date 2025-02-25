@@ -310,6 +310,7 @@ nav ul {
   color: rgba(255, 255, 255, 0.5);
   font-size: 16px;
   max-width: 470px;
+  padding-left: 1rem;
 }
 
 /* footer CSS  */
@@ -444,6 +445,18 @@ country Card
     display: flex;
     justify-content: flex-end;
   }
+}
+.flag
+{
+  /* width: auto; */
+      max-width: 10rem;
+      margin-bottom: 0;
+      height: auto;
+      justify-content: center;
+      align-items: center;
+      justify-self: center;
+      /* justify-self: center;
+      align-items: center; */
 }
 
 .section-searchFilter {
@@ -603,3 +616,29 @@ contact us Page ends here
   justify-content: center;
   align-items: center;
 }
+
+/* HTML: <div class="loader"></div> */
+/* .loader {
+  width: 60px;
+  height: 25px;
+  border: 2px solid;
+  box-sizing: border-box;
+  border-radius: 50%;
+  display: grid;
+  animation: l2 2s infinite linear;
+}
+.loader:before,
+.loader:after {
+  content: "";
+  grid-area: 1/1;
+  border: inherit;
+  border-radius: 50%;
+  animation: inherit;
+  animation-duration: 3s;
+}
+.loader:after {
+  --s:-1;
+}
+@keyframes l2 {
+   100% {transform:rotate(calc(var(--s,1)*1turn))}
+} */
