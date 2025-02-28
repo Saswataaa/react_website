@@ -4,9 +4,9 @@ export const About = ()=>{
     return (
         <section className="section-about container">
             <h2 className="container-title">
-                Here are the interesting facts 
-                <br />
-                we are proud of
+                Here are some interesting facts !!
+                {/* <br />
+                we are proud of */}
             </h2>
             <div className="gradient-cards">
                     {

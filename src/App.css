@@ -310,7 +310,7 @@ nav ul {
   color: rgba(255, 255, 255, 0.5);
   font-size: 16px;
   max-width: 470px;
-  padding-left: 1rem;
+  /* padding-left: 1rem; */
 }
 
 /* footer CSS  */

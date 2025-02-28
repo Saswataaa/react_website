@@ -26,7 +26,7 @@ export const CountryDetails =()=>{
         return <Loader/>
     
     return (
-        <section className="card country-detail-card container">
+        <section className="card country-detail-card country-details-card">
             <div className="container-card bg-white-box">
                 {
                     country &&(
@@ -40,9 +40,10 @@ export const CountryDetails =()=>{
                                     <span className="card-description">Native names:</span>
                                     {
                                         Object.keys(country.name.nativeName).map((key)=>{
-                                            country.name.nativeName[key].common
+                                            return country.name.nativeName[key].common
                                         }).join(',')
                                     }
+                                   
                                 </p>
                                 <p >
                                     <span className="card-description">Population:

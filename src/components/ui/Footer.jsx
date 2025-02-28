@@ -34,8 +34,8 @@ export const Footer = ()=>{
                         <div className='copyright-text'> 
                             <p>
                                 Copyright & copy; 2025, All Rights Reserved
-                                <NavLink to={""}>
-                                    Test
+                                <NavLink to={"https://fastidious-cranachan-5245b3.netlify.app/"} target='_blank'>
+                                    Hi fam! 
                                 </NavLink>
                             </p>
                         </div>
@@ -43,16 +43,16 @@ export const Footer = ()=>{
                             <ul>
                                 <li>
                                     <NavLink to={"/"} target='_blank'>
-                                        Home
+                                     Home
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to={""} target='_blank'>
+                                    <NavLink to={"https://github.com/Saswataaa"} target='_blank'>
                                         Social
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to={""} target='_blank'>
+                                    <NavLink to={"https://github.com/Saswataaa/react_website"} target='_blank'>
                                         Source Code
                                     </NavLink>
                                 </li>

@@ -10,7 +10,7 @@ export const HeroSection = ()=>{
                             Explore the world one country at a time
                         </h1>
                         <p className="paragraph">
-                            Discover the history culture and beauty of every nation,join in on this adventure!
+                            Discover the history culture and beauty of every nation, join in on this adventure!
                         </p>
                         <button className="btn bg-white-box">
         Start Exploring <PiArrowRight />
