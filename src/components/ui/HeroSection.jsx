@@ -1,4 +1,5 @@
 import { PiArrowRight } from "react-icons/pi"
+import { NavLink } from "react-router-dom"
 
 
 export const HeroSection = ()=>{
@@ -12,9 +13,11 @@ export const HeroSection = ()=>{
                         <p className="paragraph">
                             Discover the history culture and beauty of every nation, join in on this adventure!
                         </p>
+                        <NavLink to={'/country'}>
                         <button className="btn bg-white-box">
-        Start Exploring <PiArrowRight />
+                            Start Exploring <PiArrowRight />
                         </button>
+                        </NavLink>
                     </div>
                     <div className="hero-image">
                         <img src="/images/world.png" alt=" world banner" className="banner-image" />
